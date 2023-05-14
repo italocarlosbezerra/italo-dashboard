@@ -1,0 +1,34 @@
+.sidebar {
+   width: 200px;
+   background-color: #537fe7;
+   padding: 1rem;
+   box-sizing: border-box;
+   color: #e9f8f9;
+}
+
+h3 {
+   padding-bottom: 5px;
+}
+
+.navigation ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+
+.navigation li {
+   margin-bottom: 1rem;
+}
+
+.navigation li:last-child {
+   margin-bottom: 1rem;
+}
+
+.navigation a {
+   color: #e9f8f9;
+   text-decoration: none;
+}
+
+.navigation a:hover {
+   text-decoration: underline;
+}

@@ -1,0 +1,56 @@
+{
+  "usuarios": {
+    "id": 1,
+    "email": "teste@email.com",
+    "password": "teste@123"
+  },
+  "informacoes": [
+    {
+      "id": 1,
+      "foto": "https://github.com/italocarlosbezerra.png",
+      "nome": "João",
+      "cargo": "Desenvolvedor",
+      "resumo": "OLá"
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 9,
+      "titulo": "Densevolver de Software",
+      "descricao": "Programador",
+      "tipo": "profissional",
+      "anoInicio": "2023",
+      "anoFim": "2025"
+    },
+    {
+      "id": 10,
+      "titulo": "Análise e Desenvolvimento de Sistemas",
+      "descricao": "Estudante",
+      "tipo": "academico",
+      "anoInicio": "2019",
+      "anoFim": "2023"
+    },
+    {
+      "id": 11,
+      "titulo": "Pro Player de CS:GO",
+      "descricao": "O pai aqui dava muita bala.",
+      "tipo": "profissional",
+      "anoInicio": "2014",
+      "anoFim": "2015"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "titulo": "Densevolver de Software",
+      "imagem": "https://github.com/italocarlosbezerra.png",
+      "link": "https://github.com/italocarlosbezerra"
+    },
+    {
+      "id": 2,
+      "titulo": "Mustache Barber",
+      "imagem": "https://github.com/italocarlosbezerra/mustache-barber/raw/main/github/animation.gif",
+      "link": "https://github.com/italocarlosbezerra/mustache-barber"
+    }
+  ]
+}
